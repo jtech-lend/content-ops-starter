@@ -16,7 +16,7 @@ sections:
       - label: Apply Now
         altText: ''
         url: 'https://mifundloan.vercel.app/register'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
