@@ -83,7 +83,7 @@
         },
         {
             "label": "Log in",
-            "url": "https://loanmeapp.vercel.app/login?session",
+            "url": "https://loanmeapp.vercel.app",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
