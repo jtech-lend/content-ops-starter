@@ -293,7 +293,13 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: ''
+      url: >-
+        <a
+        href="https://www.vecteezy.com/video/26132392-real-estate-broker-agent-presenting-and-consult-to-customer-to-decision-making-sign-insurance-form-agreement-buy-and-sell-home-model-concerning-mortgage-loan-offer-for-and-house-insurance">Real
+        estate broker agent presenting and consult to customer to decision
+        making sign insurance form agreement, buy and sell home model,
+        concerning mortgage loan offer for and house insurance Stock Videos by
+        Vecteezy</a>
       autoplay: true
       loop: true
       muted: true
